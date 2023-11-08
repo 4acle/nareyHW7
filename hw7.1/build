@@ -1,0 +1,3 @@
+#!/bin/bash
+
+g++ -o myApp myApp.cpp derek_LED.cpp
